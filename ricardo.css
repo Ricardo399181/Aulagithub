@@ -1,0 +1,32 @@
+/* Define uma cor de fundo para a página */
+body {
+    background-color: #F5F5F5;
+  }
+  
+  /* Define uma cor de texto para o nome */
+  h1 {
+    color: #333;
+  }
+  
+  /* Estiliza o nome para que ele seja grande e em negrito */
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  /* Define uma cor de fundo para o nome */
+  h1 {
+    background-color: #FFF;
+  }
+  
+  /* Adiciona uma borda ao redor do nome */
+  h1 {
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  /* Centraliza o nome na página */
+  h1 {
+    text-align: center;
+  }
